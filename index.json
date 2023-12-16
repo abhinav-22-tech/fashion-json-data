@@ -1,0 +1,74 @@
+[
+    {
+        "_id": "65796a5a68803c18f74c9576",
+        "name": "Urbano Fashion",
+        "description": "Men Teal Green Slim Fit Tropical Printed Pure Cotton T-shirt",
+        "price": 340,
+        "previousPrice": 1099,
+        "category": "Men",
+        "brand": "Urbano Fashion",
+        "imageUrl": [
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12377258/2020/9/11/ce1b7bcb-a65a-4eb0-a317-42ac02718f1e1599798741705UrbanoFashionPrintedMenRoundNeckDarkGreenT-Shirt1.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12377258/2020/9/11/b986f96f-c6ce-4ce7-a999-4dbb4cc9ccec1599798741760UrbanoFashionPrintedMenRoundNeckDarkGreenT-Shirt2.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12377258/2020/9/11/30708cc5-d6f5-4343-b3b2-3cbcc618a2401599798741824UrbanoFashionPrintedMenRoundNeckDarkGreenT-Shirt3.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12377258/2020/9/11/2e8c15be-cdd8-4636-9b4b-594bccfb7d7e1599798741882UrbanoFashionPrintedMenRoundNeckDarkGreenT-Shirt4.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12377258/2020/9/11/0f4dbad9-e8ee-480a-8e08-743af87157171599798741947UrbanoFashionPrintedMenRoundNeckDarkGreenT-Shirt5.jpg"
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "65796aaa68803c18f74c9578",
+        "name": "H&M Tshirt",
+        "description": "HM Men Black Solid Cotton Pure Cotton T-shirt Regular Fit",
+        "price": 399,
+        "category": "Men",
+        "brand": "H&M",
+        "imageUrl": [
+            "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/11468732/2020/3/24/bece2abc-3045-41a5-a4e2-8caaa2354c331585042911269-HM-Men-Black-Solid-Cotton-T-shirt-Regular-Fit-51515850429100-1.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11468732/2020/3/24/6f14a9d0-4dfb-456e-a1b6-594d1a7084b91585042911199-HM-Men-Black-Solid-Cotton-T-shirt-Regular-Fit-51515850429100-2.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11468732/2020/3/24/626d7fd8-1b39-41fb-9759-97040869a8f61585042911134-HM-Men-Black-Solid-Cotton-T-shirt-Regular-Fit-51515850429100-3.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11468732/2020/3/24/6f14a9d0-4dfb-456e-a1b6-594d1a7084b91585042911199-HM-Men-Black-Solid-Cotton-T-shirt-Regular-Fit-51515850429100-4.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11468732/2020/3/24/1b528dc1-c210-4c23-9e13-459107c5ebf21585042911076-HM-Men-Black-Solid-Cotton-T-shirt-Regular-Fit-51515850429100-4.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11468732/2022/3/10/af972074-6f7c-4fd6-a2b3-97c007c26c701646912876330-HM-Men-Black-Solid-Cotton-Pure-Cotton-T-shirt-Regular-Fit-41-5.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/11468732/2022/3/10/ae5594b9-e7a1-45fb-a4c1-a078af246d421646912876322-HM-Men-Black-Solid-Cotton-Pure-Cotton-T-shirt-Regular-Fit-41-6.jpg"
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "65796d30c2d08a77c09d0544",
+        "name": "Aarika",
+        "description": "Women Self Design Denim Jacket",
+        "price": 752,
+        "previousPrice": 1879,
+        "category": "Women",
+        "brand": "Aarika",
+        "imageUrl": [
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21323612/2023/1/6/994e9ee2-e8dd-4b0b-ab58-fc23b632d4bc1673006960426-Aarika-Women-Jackets-1751673006959771-1.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21323612/2023/1/6/31cb20aa-c810-4654-9d57-de29cdc326f71673006960405-Aarika-Women-Jackets-1751673006959771-2.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21323612/2023/1/6/926093b7-feff-4012-963b-c29d8bbec61e1673006960383-Aarika-Women-Jackets-1751673006959771-3.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21323612/2023/1/6/0f8bd2bc-6af7-4971-ba5e-761d015d12c71673006960360-Aarika-Women-Jackets-1751673006959771-4.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21323612/2023/1/6/6ca5735a-db7d-44cc-bcc0-519e614dfd7e1673006960337-Aarika-Women-Jackets-1751673006959771-5.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21323612/2023/1/6/a89f8608-f170-45d6-8fc2-7622091c2a951673006960313-Aarika-Women-Jackets-1751673006959771-6.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/21323612/2023/1/6/adaed012-b292-4202-8e71-9f75e4cb191d1673006960290-Aarika-Women-Jackets-1751673006959771-7.jpg"
+        ],
+        "__v": 0
+    },
+    {
+        "_id": "65796d6ca3e200d740440f72",
+        "name": "Chemistry",
+        "description": "Women Brown V-Neck Cotton Pure Cotton T-shirt",
+        "price": 351,
+        "previousPrice": 799,
+        "category": "Women",
+        "brand": "Chemistry",
+        "imageUrl": [
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12645740/2023/9/5/dfec368d-e276-4a61-b6b0-dbf06a7ab0f41693895325754ChemistryWomenBrownV-NeckCottonPureCottonT-shirt1.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12645740/2023/9/5/bc2ba503-8914-46f4-bb7d-5dc4b23cdb771693895325770ChemistryWomenBrownV-NeckCottonPureCottonT-shirt2.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12645740/2023/9/5/864c5ea9-373f-46ad-9382-e9106b46084b1693895325791ChemistryWomenBrownV-NeckCottonPureCottonT-shirt3.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12645740/2023/9/5/85e44adf-5804-4a48-b79b-6ecbe3a7eee51693895325811ChemistryWomenBrownV-NeckCottonPureCottonT-shirt4.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12645740/2023/9/5/bc89238f-4573-4606-97e4-daace2b873471693895325832ChemistryWomenBrownV-NeckCottonPureCottonT-shirt5.jpg",
+            "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12645740/2023/9/5/0b3d6da4-2bda-4594-be23-4e968f5d2cce1693895325850ChemistryWomenBrownV-NeckCottonPureCottonT-shirt6.jpg"
+        ],
+        "__v": 0
+    }
+]
